@@ -1884,3 +1884,22 @@ button:focus-visible {
     visibility: visible;
     animation: none;
 }
+/* Developer Credit */
+.footer-credit {
+    margin-top: 25px;
+    padding-top: 18px;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    text-align: center;
+}
+
+.footer-credit p {
+    font-size: 11px;
+    letter-spacing: 1px;
+    color: var(--warm-sand);
+}
+
+.footer-credit span {
+    color: var(--alabaster);
+    font-weight: 600;
+    letter-spacing: 1.2px;
+}
